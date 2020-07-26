@@ -1,0 +1,29 @@
+html {
+    font-size: 15px; 
+    font-family: font-family: 'EB Garamond', serif;
+    background-color: #8EA392;
+    justify-content: center;
+ }
+h1 {
+    margin: 0;
+    font-size: 20px;
+    text-align: center;
+
+
+   
+  }
+body {
+    width: 300px;
+  margin: 0 px auto;
+
+
+  background-color: #65cc7a;
+  padding: 0 0px 20px 0px;
+  border: 15px solid #84AD8C;
+}
+img {
+   
+    margin: 0 auto;
+    border: 65px #84AD8C;
+
+  }
